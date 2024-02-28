@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Annapurna+SIL&size=24&duration=1000&pause=1005&color=002D72&background=FFFFFF00&center=true&random=false&width=435&height=50&lines=Robotics+M.S.E+at+Johns+Hopkins+University)](https://git.io/typing-svg)
 
-<svg width="400" height="30" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg width="400" height="30" xmlns="http://www.w3.org/2000/svg">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Arnhem');
     text { font-family: 'Arnhem Pro', Georgia, serif; font-size: 24px; fill: #68ACE5; }
   </style>
   <text x="90" y="20">Ching Yang (Austin) Huang</text>
-</svg>
+</svg> -->
+
+# Ching Yang (Austin) Huang
 
 ## 🧑‍💻 About Me
 
