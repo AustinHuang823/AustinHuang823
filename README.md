@@ -16,13 +16,23 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 
 ## Skills
 
+| Category | Skills |
+|:---------|:-------|
+| **Programming Languages & Libraries** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFD43B?style=for-the-badge&logoColor=white) |
+| **Machine Learning & Robotics** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![ROS](https://skillicons.dev/icons?i=ros&theme=dark) ![Unity](https://skillicons.dev/icons?i=unity&theme=dark) ![Gazebo](https://img.shields.io/badge/Gazebo-ffffff?style=for-the-badge&logo=gazebo&logoColor=black) ![MRTK](https://img.shields.io/badge/MRTK-00B2FF?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **Development Tools & DevOps** | ![Anaconda](https://skillicons.dev/icons?i=anaconda&theme=dark) ![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio&theme=dark) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark) ![LaTeX](https://skillicons.dev/icons?i=latex&theme=dark) ![Notion](https://skillicons.dev/icons?i=notion&theme=dark) ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) ![Azure](https://skillicons.dev/icons?i=azure&theme=dark) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| **Design, Simulation & CAD Tools** | ![AutoCAD](https://skillicons.dev/icons?i=autocad&theme=dark) ![SolidWorks](https://skillicons.dev/icons?i=solidworks&theme=dark) ![Creo](https://img.shields.io/badge/Creo-ED1C24?style=for-the-badge&logo=ptc&logoColor=white) ![Creo Simulation](https://img.shields.io/badge/Creo_Simulation-ED1C24?style=for-the-badge&logo=ptc&logoColor=white) ![Femap](https
+
+
+## Skills
+
 | Programming Languages | Machine Learning & Robotics |
 |:----------------------|:----------------------------|
 | ![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,matlab&theme=dark&perline=8) | ![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,ros,unity&theme=dark&perline=8) |
 
 | Development Tools | Design & Simulation |
 |:------------------|:--------------------|
-| ![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,visualstudio,vscode,linux,ubuntu,latex,notion&theme=dark&perline=8) | ![My Skills](https://skillicons.dev/icons?i=autocad,opencv&theme=dark&perline=8) |
+| ![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,visualstudio,vscode,linux,ubuntu,latex,notion&theme=dark&perline=8) | ![My Skills](https://skillicons.dev/icons?i=autocad,opencv&theme=dark&perline=8) ![SolidWorks](https://img.shields.io/badge/SolidWorks-brightgreen)|
 
 | Cloud & DevOps | Version Control Systems |
 |:---------------|:------------------------|
@@ -106,8 +116,6 @@ Let's connect! Whether you're a potential employer, a fellow tech enthusiast, or
 ![My Skills](https://skillicons.dev/icons?i=github,gitlab)
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-Expert-brightgreen)
-
-![Pro-E](https://github.com/AustinHuang823/AustinHuang823/blob/main/assets/pro-e.png)
 
 
 <!--
