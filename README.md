@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Annapurna+SIL&size=28&duration=1000&pause=1005&color=002D72&background=FFFFFF00&random=false&width=435&lines=Robotics+M.S.E+at+Johns+Hopkins+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Annapurna+SIL&size=24&duration=1000&pause=1005&color=002D72&background=FFFFFF00&random=false&width=435&lines=Robotics+M.S.E+at+Johns+Hopkins+University)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
