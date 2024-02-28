@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Annapurna+SIL&size=24&duration=1000&pause=1005&color=002D72&background=FFFFFF00&center=true&random=false&width=435&height=50&lines=Robotics+M.S.E+at+Johns+Hopkins+University)](https://git.io/typing-svg)
 
-<!-- <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg width="400" height="30" xmlns="http://www.w3.org/2000/svg">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Arnhem');
     text { font-family: 'Arnhem Pro', Georgia, serif; font-size: 24px; fill: #68ACE5; }
@@ -13,6 +13,56 @@
 ## 🧑‍💻 About Me
 
 Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's student specializing in Robotics at Johns Hopkins University. With a robust foundation in engineering principles and a keen interest in the cutting-edge fields of Automation, Mechatronics, Robotics, Virtual Reality (VR), and Computer Vision, I am on a mission to contribute to the advancement of these technologies.
+
+## Skills
+
+| Programming Languages | Machine Learning & Robotics |
+|:----------------------|:----------------------------|
+| ![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,matlab&theme=dark&perline=8) | ![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,ros,unity&theme=dark&perline=8) |
+
+| Development Tools | Design & Simulation |
+|:------------------|:--------------------|
+| ![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,visualstudio,vscode,linux,ubuntu,latex,notion&theme=dark&perline=8) | ![My Skills](https://skillicons.dev/icons?i=autocad,opencv&theme=dark&perline=8) |
+
+| Cloud & DevOps | Version Control Systems |
+|:---------------|:------------------------|
+| ![My Skills](https://skillicons.dev/icons?i=aws,azure,docker&theme=dark&perline=8) | ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark&perline=8) |
+
+
+## Skills
+
+### Programming Languages:
+![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,matlab&theme=dark&perline=8)
+
+### Machine Learning & Robotics:
+![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,ros,unity&theme=dark&perline=8)
+
+### Development Tools:
+![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,visualstudio,vscode,linux,ubuntu,latex,notion&theme=dark&perline=8)
+
+### Design & Simulation:
+![My Skills](https://skillicons.dev/icons?i=autocad,opencv&theme=dark&perline=8)
+
+### Cloud & DevOps:
+![My Skills](https://skillicons.dev/icons?i=aws,azure,docker&theme=dark&perline=8)
+
+### Version Control Systems:
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark&perline=8)
+
+
+## Skills
+### Programming: <br />
+![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,ros,unity,matlab,tensorflow,pytorch&theme=dark&perline=8)
+
+### 3D CAD: <br />
+
+
+### Version control: <br />
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
+
+#### all
+![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,autocad,aws,azure,docker,latex,notion,opencv,linux,ubuntu,visualstudio,vscode&theme=dark&perline=8)
+
 
 ## 🎓 Educational Journey
 
@@ -42,7 +92,7 @@ I am excited about the prospect of contributing to projects that make a differen
 Let's connect! Whether you're a potential employer, a fellow tech enthusiast, or someone interested in collaboration, I'd love to explore how we can work together to drive innovation forward.
 
 
-<!-- ## Skills
+## Skills
 - Currently using: <br />
 ![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,ros,unity,matlab,tensorflow,pytorch&theme=dark&perline=7)
 
@@ -58,13 +108,6 @@ Let's connect! Whether you're a potential employer, a fellow tech enthusiast, or
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-Expert-brightgreen)
 
 ![Pro-E](https://github.com/AustinHuang823/AustinHuang823/blob/main/assets/pro-e.png)
-
-
-
-- Experience
-
-- Project -->
-
 
 
 <!--
