@@ -17,64 +17,13 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 ## Skills
 
 | Category | Skills |
-|:---------|:-------|
+|:-|:-|
 | **Programming Languages & Libraries** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFD43B?style=for-the-badge&logoColor=white) |
-| **Machine Learning & Robotics** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![ROS](https://skillicons.dev/icons?i=ros&theme=dark) ![Unity](https://skillicons.dev/icons?i=unity&theme=dark) ![Gazebo](https://img.shields.io/badge/Gazebo-ffffff?style=for-the-badge&logo=gazebo&logoColor=black) ![MRTK](https://img.shields.io/badge/MRTK-00B2FF?style=for-the-badge&logo=microsoft&logoColor=white) |
-| **Development Tools & DevOps** | ![Anaconda](https://skillicons.dev/icons?i=anaconda&theme=dark) ![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio&theme=dark) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark) ![LaTeX](https://skillicons.dev/icons?i=latex&theme=dark) ![Notion](https://skillicons.dev/icons?i=notion&theme=dark) ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) ![Azure](https://skillicons.dev/icons?i=azure&theme=dark) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| **ML, VR, & Robotics** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![ROS](https://skillicons.dev/icons?i=ros&theme=dark) ![Gazebo](https://img.shields.io/badge/Gazebo-ffffff?style=for-the-badge&logo=gazebo&logoColor=black) ![Unity](https://skillicons.dev/icons?i=unity&theme=dark) ![MRTK](https://img.shields.io/badge/MRTK-00B2FF?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **Development Tools & DevOps** | ![Anaconda](https://skillicons.dev/icons?i=anaconda&theme=dark) ![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio&theme=dark) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark) ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) ![Azure](https://skillicons.dev/icons?i=azure&theme=dark) |
 | **Design, Simulation & CAD Tools** | ![AutoCAD](https://skillicons.dev/icons?i=autocad&theme=dark) ![Creo](https://img.shields.io/badge/Creo-ED1C24?style=for-the-badge&logo=ptc&logoColor=white) ![Creo Simulation](https://img.shields.io/badge/Creo_Simulation-ED1C24?style=for-the-badge&logo=ptc&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-4A90E2?style=for-the-badge&logo=dassault-systemes&logoColor=white)![Femap](https://img.shields.io/badge/Femap-007ACC?style=for-the-badge&logo=siemens&logoColor=white)|
-| **Version Control Systems & Project Management** | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark) |
-
-
-
-
-## Skills
-
-| Programming Languages | Machine Learning & Robotics |
-|:----------------------|:----------------------------|
-| ![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,matlab&theme=dark&perline=8) | ![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,ros,unity&theme=dark&perline=8) |
-
-| Development Tools | Design & Simulation |
-|:------------------|:--------------------|
-| ![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,visualstudio,vscode,linux,ubuntu,latex,notion&theme=dark&perline=8) | ![My Skills](https://skillicons.dev/icons?i=autocad,opencv&theme=dark&perline=8) ![SolidWorks](https://img.shields.io/badge/SolidWorks-brightgreen)|
-
-| Cloud & DevOps | Version Control Systems |
-|:---------------|:------------------------|
-| ![My Skills](https://skillicons.dev/icons?i=aws,azure,docker&theme=dark&perline=8) | ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark&perline=8) |
-
-
-## Skills
-
-### Programming Languages:
-![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,matlab&theme=dark&perline=8)
-
-### Machine Learning & Robotics:
-![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,ros,unity&theme=dark&perline=8)
-
-### Development Tools:
-![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,visualstudio,vscode,linux,ubuntu,latex,notion&theme=dark&perline=8)
-
-### Design & Simulation:
-![My Skills](https://skillicons.dev/icons?i=autocad,opencv&theme=dark&perline=8)
-
-### Cloud & DevOps:
-![My Skills](https://skillicons.dev/icons?i=aws,azure,docker&theme=dark&perline=8)
-
-### Version Control Systems:
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark&perline=8)
-
-
-## Skills
-### Programming: <br />
-![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,ros,unity,matlab,tensorflow,pytorch&theme=dark&perline=8)
-
-### 3D CAD: <br />
-
-
-### Version control: <br />
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
-
-#### all
-![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,autocad,aws,azure,docker,latex,notion,opencv,linux,ubuntu,visualstudio,vscode&theme=dark&perline=8)
+| **Version Control Systems** | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) ![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark) |
+| **Documentation & Project Management** | ![LaTeX](https://skillicons.dev/icons?i=latex&theme=dark) ![Notion](https://skillicons.dev/icons?i=notion&theme=dark) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 
 ## 🎓 Educational Journey
@@ -103,22 +52,6 @@ What sets me apart is not just my technical expertise but also my passion for le
 I am excited about the prospect of contributing to projects that make a difference. Whether it's developing advanced robotic systems, enhancing automation technologies, or pushing the limits of computer vision, I am ready to dive in and make a substantial impact.
 
 Let's connect! Whether you're a potential employer, a fellow tech enthusiast, or someone interested in collaboration, I'd love to explore how we can work together to drive innovation forward.
-
-
-## Skills
-- Currently using: <br />
-![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,ros,unity,matlab,tensorflow,pytorch&theme=dark&perline=7)
-
-- Currently using: <br />
-![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,ros,unity,matlab,tensorflow,pytorch,docker)
-- Web development: <br />
-![My Skills](https://skillicons.dev/icons?i=nodejs,js,vue,php,laravel,django,react,postgres,html,css)
-- Web development: <br />
-![My Skills](https://skillicons.dev/icons?i=nodejs,js,vue,php,laravel,django,react,postgres,html,css)
-- Version control: <br />
-![My Skills](https://skillicons.dev/icons?i=github,gitlab)
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-Expert-brightgreen)
 
 
 <!--
