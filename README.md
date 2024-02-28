@@ -40,7 +40,7 @@ I am excited about the prospect of contributing to projects that make a differen
 Let's connect! Whether you're a potential employer, a fellow tech enthusiast, or someone interested in collaboration, I'd love to explore how we can work together to drive innovation forward.
 
 
-## Skills
+<!-- ## Skills
 - Currently using: <br />
 ![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,ros,unity,matlab,tensorflow,pytorch&theme=dark&perline=7)
 
@@ -61,7 +61,7 @@ Let's connect! Whether you're a potential employer, a fellow tech enthusiast, or
 
 - Experience
 
-- Project
+- Project -->
 
 
 
