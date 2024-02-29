@@ -52,7 +52,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 
 ## 💼 Experience
 
-Please note that all the works in this section are under 
+Please note that all projects in this scetion are subject to non-disclosure agreements (NDAs), hence further details or documentation cannot be shared.
 
 ### Intelligent Inventory Management System Development at NIH 
 - During my internship at [Axle Informatics](https://axleinfo.com/), I engaged in a pioneering project at the [National Institute of Health (NIH)](https://www.nih.gov/), aiming at revolutionizing laboratory automation through the development of the Intelligent Inventory Management System (IIMS) and High-Density Storage (HDS). 
