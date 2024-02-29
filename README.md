@@ -21,7 +21,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 
 | Category | Skills |
 |:-|:-|
-| **Programming Languages & Libraries** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFD43B?style=for-the-badge&logoColor=white) |
+| **Programming Languages** | ![Python](https://skillicons.dev/icons?i=py&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![C#](https://skillicons.dev/icons?i=cs&theme=dark) ![Matlab](https://skillicons.dev/icons?i=matlab&theme=dark)|
 | **ML, VR, & Robotics** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![ROS](https://skillicons.dev/icons?i=ros&theme=dark) ![Unity](https://skillicons.dev/icons?i=unity&theme=dark) ![Gazebo](https://img.shields.io/badge/Gazebo-ffffff?style=for-the-badge&logo=gazebo&logoColor=black) ![MRTK](https://img.shields.io/badge/MRTK-00B2FF?style=for-the-badge&logo=microsoft&logoColor=white) |
 | **Development Tools & DevOps** | ![Anaconda](https://skillicons.dev/icons?i=anaconda&theme=dark) ![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio&theme=dark) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark) ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) ![Azure](https://skillicons.dev/icons?i=azure&theme=dark) |
 | **Design, Simulation & CAD Tools** | ![AutoCAD](https://skillicons.dev/icons?i=autocad&theme=dark) ![Creo](https://img.shields.io/badge/Creo-ED1C24?style=for-the-badge&logo=ptc&logoColor=white) ![Creo Simulation](https://img.shields.io/badge/Creo_Simulation-ED1C24?style=for-the-badge&logo=ptc&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-4A90E2?style=for-the-badge&logo=dassault-systemes&logoColor=white)![Femap](https://img.shields.io/badge/Femap-007ACC?style=for-the-badge&logo=siemens&logoColor=white)|
@@ -31,68 +31,54 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 
 ## 🗄 Projects
 
-- Robot Arm Control and Image Drawing Manipulation
-    - This project showcases the application of complex robotic control algorithms, such as Inverse Kinematics, Transposed-Jacobian, and Resolved-Rate Control, for executing precise pick-and-place tasks. 
-    - By fine-tuning the algorithms' time steps and gains, efficiency and stability were significantly enhanced. 
-    - Challenges like table collisions, singularity issues, and workspace limitations were effectively addressed. 
-    - A highlight of the project was programming the UR5 robot arm to artistically draw the Johns Hopkins University logo, demonstrating both technical mastery and creative application of robotics.
-
-<!-- <p align="center">
-  <img src="/assets/gif/rdkdc_imagedrawing.gif" alt="JHU logo drawing demo" width="150" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" width="300" />
-</p>
-<p align="center">
-  <em>JHU logo drawing demo</em> &nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
-</p> -->
+### Robot Arm Control and Image Drawing Manipulation
+- This project showcases the application of complex robotic control algorithms, such as Inverse Kinematics, Transposed-Jacobian, and Resolved-Rate Control, for executing precise pick-and-place tasks. 
+- By fine-tuning the algorithms' time steps and gains, efficiency and stability were significantly enhanced. 
+- Challenges like table collisions, singularity issues, and workspace limitations were effectively addressed. 
+- A highlight of the project was programming the UR5 robot arm to artistically draw the Johns Hopkins University logo, demonstrating both technical mastery and creative application of robotics.
+- [Link to the repo (public version)](https://github.com/AustinHuang823/Robot-Arm-Control-and-Image-Drawing-Manipulation-public)
+- Tools utilized: ROS, MATLAB, Ubuntu, Linux.
+- Affiliated skills: Kinematics, Control.
 
 <p align="center">
   <img src="/assets/gif/rdkdc_imagedrawing.gif" alt="JHU logo drawing demo" height="300" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" height="300" />
 </p>
-<p align="center">
-  <em>JHU logo drawing demo</em> &nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
+<p align="center" style="font-size: 12px;">
+  <em>JHU logo drawing demo</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
 </p>
 
-
-<!-- ![JHU logo drawing demo](/assets/gif/rdkdc_imagedrawing.gif)
-*JHU logo drawing demo*
-
-![JHU logo drawing trajectory in simulation](/assets/image/rdkdc_simulation.png)
-*JHU logo drawing trajectory in simulation* -->
 
 
 
 ## 💼 Experience
 
+Please note that all the works in this section are under 
 
+### Intelligent Inventory Management System Development at NIH 
+- During my internship at [Axle Informatics](https://axleinfo.com/), I engaged in a pioneering project at the [National Institute of Health (NIH)](https://www.nih.gov/), aiming at revolutionizing laboratory automation through the development of the Intelligent Inventory Management System (IIMS) and High-Density Storage (HDS). 
+- I focused on creating an efficient, automated storage solution, HDS, to address the challenges of manual inventory management in laboratory settings. 
+- My contributions spanned hardware design, including space-efficient, user-friendly, and robust storage solutions, and the integration of automation to enhance operational efficiency and accuracy. 
+- The project's success was marked by significant advancements in automating pick-and-place tasks and inventory management of laboratory processes, demonstrating the potential to drastically reduce human error and improve drug discovery processes.
+- Tools utilized: Creo, Femap, Python, C++, Arduino.
+- Affiliated skills: Hardware, Mechatronics, Computer Vision, Control.
 
-## 🎓 Educational Journey
-
-My academic journey at Johns Hopkins has been a blend of rigorous coursework, practical research, and project-based learning. Here, I've honed my skills in programming languages such as C++ and Python, delved deep into the workings of ROS (Robot Operating System), and mastered simulation environments like Unity. My coursework and projects not only solidified my theoretical understanding but also provided me with hands-on experience in solving real-world problems.
-
-
-## 🛠 Technical Expertise
-
-I bring a diverse set of skills to the table, including:
-- Proficiency in **programming languages** (C++, Python, MATLAB), allowing me to tackle complex algorithms and data structures with ease.
-- Expertise in **robotic systems** and **automation technologies**, enhanced by my practical experiences with ROS and Unity.
-- A solid foundation in **mechatronics and control systems**, underpinned by projects utilizing MATLAB, C++, Arduino, and Simulink.
-- Experience in **computer vision and machine learning**, with practical applications using TensorFlow and PyTorch for image recognition and autonomous system navigation.
-- A knack for **design and simulation**, demonstrated through my work with CAD tools like SolidWorks and Pro-E, enabling me to visualize and prototype mechanical components and systems.
-
-## 🌐 Professional Aspirations
-
-As I approach the completion of my Master's degree, I am eagerly looking for opportunities to apply my skills in a dynamic work environment. My goal is to join a forward-thinking company where I can contribute to impactful projects in Robotics, Automation, or Computer Vision. I am particularly interested in roles that challenge me to push the boundaries of current technologies and contribute to innovative solutions.
+### Malaria Vaccine Production Enhancement at LCSR, JHU
+- As a Research Assistant at the [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/) at Johns Hopkins University, under the guidance of Russell Taylor and cooperation with other professors and researchers, I significantly optimized the malaria vaccine production system's setup time by integrating deep learning techniques in computer vision to the system.
+- My work led to a substantial enhancement in ROI detection accuracy, reaching 96% using the YOLOv5 model. 
+- I implemented Class Activation Mapping with PyTorch by adding a Global Average Pooling layer, enabling us to discern mosquito attributes more effectively, thereby improving vaccine quality with a 95% accuracy rate in predicting vaccine efficacy.
+- I streamlined the development process by automating data preparation with Python, centralizing configuration through JSON, enforcing version control with Git, and ensuring comprehensive codebase documentation, thereby boosting overall task efficiency for collaboration.
+- Tools utilized: Python, PyTorch, YOLO, Git, GitLab.
+- Affiliated skills: Deep Learning, Computer Vision, Automation, Data Processing.
 
 ## 💡 Why Me?
 
-What sets me apart is not just my technical expertise but also my passion for learning and innovation. I am a quick learner, adaptable, and thrive in collaborative environments. My academic and project experiences have equipped me with a problem-solving mindset and the ability to work effectively under pressure.
+What sets me apart is not just my technical expertise but also my passion for learning and innovation. My experiences at NIH, LCSR, alongside numerous projects, have honed my quick learning abilities and fostered a strong capacity for collaboration. These experiences have equipped me with a problem-solving mindset and the ability to work effectively under pressure.
 
 ## 🔍 Looking Ahead
 
-I am excited about the prospect of contributing to projects that make a difference. Whether it's developing advanced robotic systems, enhancing automation technologies, or pushing the limits of computer vision, I am ready to dive in and make a substantial impact.
+I am keen on contributing to impactful projects, especially in areas like advanced robotics, automation technologies, and computer vision. I'm ready to leverage my skills to make a significant contribution.
 
-Let's connect! Whether you're a potential employer, a fellow tech enthusiast, or someone interested in collaboration, I'd love to explore how we can work together to drive innovation forward.
-
-
+For collaborations or opportunities, feel free to reach out via email at chuan120@jhu.edu. Let's explore how we can drive innovation forward together.
 
 
 <!-- {Templates} -->
