@@ -10,13 +10,17 @@
 
 <h1 align="center">Ching-Yang (Austin) Huang</h1>
 
-<!-- # Austin Huang -->
 
+
+<!--  -->
 ## 🧑 About Me
 
 Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's student specializing in Robotics at Johns Hopkins University. With a robust foundation in engineering principles and a keen interest in the cutting-edge fields of Automation, Mechatronics, Robotics, Virtual Reality (VR), and Computer Vision, I am on a mission to contribute to the advancement of these technologies.
 
 
+
+
+<!--  -->
 ## 👨‍💻 Skills
 
 | Category | Skills |
@@ -29,7 +33,14 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 | **Documentation & Project Management** | ![LaTeX](https://skillicons.dev/icons?i=latex&theme=dark) ![Notion](https://skillicons.dev/icons?i=notion&theme=dark) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 
+
+
+<!--  -->
 ## 🗄 Projects
+
+### VR C-arm Surgical Operation Simulation
+- Currently working on
+- Materials under maintainance
 
 ### Robot Arm Control and Image Drawing Manipulation
 - This project showcases the application of complex robotic control algorithms, such as Inverse Kinematics, Transposed-Jacobian, and Resolved-Rate Control, for executing precise pick-and-place tasks. 
@@ -47,9 +58,39 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
   <em>JHU logo drawing demo</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
 </p>
 
+### Sensor-Based Robot Arm Control
+- Materials under maintainance
+<!-- - Implemented hand-eye calibration using the Park-and-Martin method, yielding an end effector error of just 0.2mm. -->
+
+### Computer Integrated Surgery Calibration App
+- Materials under maintainance
+<!-- • Developed a calibration program for a stereotactic navigation system using Python, encompassing Transformation,
+Interpolation, and Iterative Closest Point Algorithms, achieving precision with navigated objects within 0.1 mm error.
+• Visualized the data and errors with 3D and box plots via Plotly, providing rigorous error analysis and insights.
+• Designed a user-friendly interface with Click and tqdm, enabling the execution of diverse datasets and settings. -->
+
+### Human Perception Enhancement with Head Mounted Display(HMD)
+- Materials under maintainance
+<!-- - Expanded user’s Field of View by 33% to over 180 degrees by integrating C# and Unity in Microsoft Hololens 2.
+- Integrated ArUco markers and camera calibration techniques to detect objects’ positions within a 5% error.
+- [Link to the repo](https://github.com/AustinHuang823/Increase-Human-FoV-Using-Hololens) -->
+
+### Wireless Climate-controlled Lighting and Blinds System
+- Materials under maintainance
+
+### Video Content 3D Model Rebuilt by Structure from Motion
+- Materials under maintainance
+
+### Semantic Segmentation with Transfer Learning
+- Materials under maintainance
+
+### Cybersecurity Strengthening with Deep Learning
+- Materials under maintainance
 
 
 
+
+<!--  -->
 ## 💼 Experience
 
 Please note that all projects in this scetion are subject to non-disclosure agreements (NDAs), hence further details or documentation cannot be shared.
@@ -70,6 +111,15 @@ Please note that all projects in this scetion are subject to non-disclosure agre
 - Tools utilized: Python, PyTorch, YOLO, Git, GitLab.
 - Affiliated skills: Deep Learning, Computer Vision, Automation, Data Processing.
 
+### R&D Engineer at Dynacolor
+- materials under maintainance
+
+### Clash Bots
+- materials under maintainace
+
+
+
+<!--  -->
 ## 💡 Why Me?
 
 What sets me apart is not just my technical expertise but also my passion for learning and innovation. My experiences at NIH, LCSR, alongside numerous projects, have honed my quick learning abilities and fostered a strong capacity for collaboration. These experiences have equipped me with a problem-solving mindset and the ability to work effectively under pressure.
