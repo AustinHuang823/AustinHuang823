@@ -37,8 +37,15 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
     - Challenges like table collisions, singularity issues, and workspace limitations were effectively addressed. 
     - A highlight of the project was programming the UR5 robot arm to artistically draw the Johns Hopkins University logo, demonstrating both technical mastery and creative application of robotics.
 
+<!-- <p align="center">
+  <img src="/assets/gif/rdkdc_imagedrawing.gif" alt="JHU logo drawing demo" width="150" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" width="300" />
+</p>
 <p align="center">
-  <img src="/assets/gif/rdkdc_imagedrawing.gif" alt="JHU logo drawing demo" width="400" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" width="400" />
+  <em>JHU logo drawing demo</em> &nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
+</p> -->
+
+<p align="center">
+  <img src="/assets/gif/rdkdc_imagedrawing.gif" alt="JHU logo drawing demo" height="300" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" height="300" />
 </p>
 <p align="center">
   <em>JHU logo drawing demo</em> &nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
