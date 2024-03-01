@@ -43,8 +43,8 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - We're building on existing VR platforms to develop a system that for accurately defining standard pelvic views, reducing reliance on fluoroscopic guidance and its associated risks.
 - Part of the project involves enhancing the usability of the VR platform by building intuitive UI through Unity.
 - We plan to deploy an enhanced VR environment with diverse patient models, making it accessible and user-friendly for novice users, and expand it to support multi-user access, leveraging cloud-based hosting for efficient operation.
-- Tools utilized: Unity, MRTK, C#, Python, Docker, AWS/AZURE.
-- Affiliated skills: VR, UI design, Kinematics, Network.
+- Tools utilized: Unity, MRTK, C#, Python, Docker, AWS/AZURE, Notion, Jira.
+- Affiliated skills: VR, UI design, Kinematics, Network, Project Management.
 
 ### Robot Arm Control and Image Drawing Manipulation
 - This project showcases the application of complex robotic control algorithms, such as Inverse Kinematics, Transposed-Jacobian, and Resolved-Rate Control, for executing precise pick-and-place tasks. 
@@ -155,11 +155,26 @@ Please note that all projects in this scetion are subject to non-disclosure agre
 - Tools utilized: Python, PyTorch, YOLO, Git, GitLab.
 - Affiliated skills: Deep Learning, Computer Vision, Automation, Data Processing.
 
-<!-- ### R&D Engineer at Dynacolor
-- materials under maintainance
 
 ### Clash Bots
-- materials under maintainace -->
+
+- [Clash Bots](https://clash-bots.fandom.com/wiki/Clash_Bots) is a highly acclaimed Chinese TV series aired in 2018 that attracted over one billion views worldwid, featuring international heavyweight robots (110 kg) competing in a variety of challenges, drawing from a unique format that mixed battles, rumbles, and demolition tasks.
+- I Led a highly skilled team of four, applying agile project management techniques to streamline the robot's design, construction, and testing stages, ensuring the project was delivered within a tight eight-month timeline.
+- I designed impact-resistance mechanism, implemented RF control systems, executed welding and wiring, and assembled electro-mechanical components such as motors, contactors, and torque limiters to enhance combat performance.
+- Tools utilized: Creo.
+- Affiliated skills: Welding, Electronice, Mechanism Design, Project Management.
+
+<p align="center">
+  <img src="/assets/gif/clashbots.gif" alt="Clash Bots demo" width="600" /> 
+</p>
+<p align="center" style="font-size: 12px;">
+  <em>Clash Bots demo</em>
+</p>
+
+
+<!-- ### R&D Engineer at Dynacolor
+- materials under maintainance -->
+
 
 
 

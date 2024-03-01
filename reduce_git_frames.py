@@ -17,9 +17,9 @@ def reduce_and_extend_gif_duration(input_gif_path, output_gif_path, reduction_fa
             duration=new_frame_duration
         )
 
-input_gif_path = 'assets/gif/rdkdc_imagedrawing_origin.gif'
-output_gif_path = 'assets/gif/rdkdc_imagedrawing.gif'
-reduction_factor = 10
-total_duration_seconds = 5
+input_gif_path = 'assets/gif/clashbots.gif'
+output_gif_path = 'assets/gif/clashbots_test.gif'
+reduction_factor = 5
+total_duration_seconds = 60
 
 reduce_and_extend_gif_duration(input_gif_path, output_gif_path, reduction_factor, total_duration_seconds)

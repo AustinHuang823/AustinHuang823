@@ -1,6 +1,6 @@
 import imageio
 
-def mp4_to_gif(input_path, output_path, fps=60):
+def mp4_to_gif(input_path, output_path, fps=10):
     """
     Convert an MP4 video to a GIF with specified frames per second.
 
@@ -18,6 +18,6 @@ def mp4_to_gif(input_path, output_path, fps=60):
         writer.append_data(frames[:, :, :])
     writer.close()
 
-input_mp4 = 'assets/raw/rdkdc_imagedrawing.MP4'  # Path to MP4 file
-output_gif = 'assets/gifs/rdkdc_imagedrawing.gif'  # Path to output GIF file
-mp4_to_gif(input_mp4, output_gif, fps=240)
+input_mp4 = 'assets/raw/clashbots.mp4'  # Path to MP4 file
+output_gif = 'assets/gif/clashbots.gif'  # Path to output GIF file
+mp4_to_gif(input_mp4, output_gif)
