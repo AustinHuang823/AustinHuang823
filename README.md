@@ -83,7 +83,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
   <img src="/assets/image/perception_demo.jpg" alt="Perception Enhancement UI" height="200" />&nbsp;<img src="/assets/gif/perception_demo.gif" alt="Pereception Enhancement Demo" height="200" /> 
 </p>
 <p align="center" style="font-size: 12px;">
-  <em>Perception enhancement UI</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Pereception enhancement demo</em>
+  <em>Perception enhancement UI</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Pereception enhancement demo</em>
 </p>
 
 
