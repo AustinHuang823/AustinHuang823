@@ -38,16 +38,20 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 <!--  -->
 ## 🗄 Projects
 
-### VR C-arm Surgical Operation Simulation
-- Currently working on
-- Materials under maintainance
+### VR C-arm Surgical Operation Simulation (Currently working on)
+- Our project at the Laboratory for Computational Sensing and Robotics (LCSR), Johns Hopkins University, aims to enhance the precision and outcome of percutaneous pelvic fracture surgeries. 
+- We're building on existing VR platforms to develop a system that for accurately defining standard pelvic views, reducing reliance on fluoroscopic guidance and its associated risks.
+- Part of the project involves enhancing the usability of the VR platform by building intuitive UI through Unity.
+- We plan to deploy an enhanced VR environment with diverse patient models, making it accessible and user-friendly for novice users, and expand it to support multi-user access, leveraging cloud-based hosting for efficient operation.
+- Tools utilized: Unity, MRTK, C#, Python, Docker, AWS/AZURE.
+- Affiliated skills: VR, Network.
 
 ### Robot Arm Control and Image Drawing Manipulation
 - This project showcases the application of complex robotic control algorithms, such as Inverse Kinematics, Transposed-Jacobian, and Resolved-Rate Control, for executing precise pick-and-place tasks. 
 - By fine-tuning the algorithms' time steps and gains, efficiency and stability were significantly enhanced. 
 - Challenges like table collisions, singularity issues, and workspace limitations were effectively addressed. 
 - A highlight of the project was programming the UR5 robot arm to artistically draw the Johns Hopkins University logo, demonstrating both technical mastery and creative application of robotics.
-- [Link to the repo (public version)](https://github.com/AustinHuang823/Robot-Arm-Control-and-Image-Drawing-Manipulation-public)
+- [Link to the report](https://github.com/AustinHuang823/Robot-Arm-Control-and-Image-Drawing-Manipulation-public)
 - Tools utilized: ROS, MATLAB, Ubuntu, Linux.
 - Affiliated skills: Kinematics, Control.
 
@@ -58,16 +62,30 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
   <em>JHU logo drawing demo</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
 </p>
 
+
+### Calibration and Distortion Correction in Stereotactic Navigation
+- This project advanced the domain of stereotactic navigation systems by developing and implementing mathematical models and algorithms for precise calibration, distortion correction, and tracking.
+- Techniques included Cartesian 3D points rotations, frame transformations, 3D point cloud registration, pivot calibration, and advanced interpolation for distortion correction utilizing Bernstein polynomials.
+- The project emphasized on correcting distortions within the stereotactic navigation system, enabling accurate determination of instrument tip location relative to CT frames, significantly improving the system's accuracy and reliability.
+- Validation methods involved detailed statistical analysis and visualization of results, demonstrating the effectiveness of the developed approaches in handling real-world navigation and tracking challenges.
+- [Link to the report](https://github.com/AustinHuang823/Calibration-and-Distortion-Correction-in-Stereotactic-Navigation-public)
+- Tools utilized: Python.
+- Affiliated skills: Interpolation, Calibration, Distortion Correction, Bezier Geometry, Data Processing, Validation.
+
+
+### Iterative Closest Point Algorithm for 3D Surface Matching
+- This project focuses on the implementation of the Iterative Closest Point (ICP) algorithm to match 3D surfaces accurately, addressing a crucial challenge in computer-integrated surgery and robotics.
+- Developed two nearest neighbor search (NNS) methods: the linear brute-force search for simplicity and the efficient covariance tree search for handling larger datasets with improved time efficiency.
+- Employed advanced mathematical models and algorithms for 3D data processing, including point cloud registration and transformation techniques, to ensure precise alignment of 3D surfaces.
+- Validation and results analysis demonstrated the effectiveness of these methods in achieving high accuracy and significant improvements in computational efficiency.
+- [Link to the report](https://github.com/AustinHuang823/Iterative-Closest-Point-Algorithm-for-3D-Surface-Matching-public)
+- Tools utilized: Python.
+- Affiliated skills: ICP, Kinematics, Data Processing, Validation.
+
+
 ### Sensor-Based Robot Arm Control
 - Materials under maintainance
 <!-- - Implemented hand-eye calibration using the Park-and-Martin method, yielding an end effector error of just 0.2mm. -->
-
-### Computer Integrated Surgery Calibration App
-- Materials under maintainance
-<!-- • Developed a calibration program for a stereotactic navigation system using Python, encompassing Transformation,
-Interpolation, and Iterative Closest Point Algorithms, achieving precision with navigated objects within 0.1 mm error.
-• Visualized the data and errors with 3D and box plots via Plotly, providing rigorous error analysis and insights.
-• Designed a user-friendly interface with Click and tqdm, enabling the execution of diverse datasets and settings. -->
 
 ### Human Perception Enhancement with Head Mounted Display(HMD)
 - Materials under maintainance
@@ -87,6 +105,10 @@ Interpolation, and Iterative Closest Point Algorithms, achieving precision with 
 ### Cybersecurity Strengthening with Deep Learning
 - Materials under maintainance
 
+### Decision Tree implementation
+- Materials under maintainace
+
+
 
 
 
@@ -94,6 +116,7 @@ Interpolation, and Iterative Closest Point Algorithms, achieving precision with 
 ## 💼 Experience
 
 Please note that all projects in this scetion are subject to non-disclosure agreements (NDAs), hence further details or documentation cannot be shared.
+
 
 ### Intelligent Inventory Management System Development at NIH 
 - During my internship at [Axle Informatics](https://axleinfo.com/), I engaged in a pioneering project at the [National Institute of Health (NIH)](https://www.nih.gov/), aiming at revolutionizing laboratory automation through the development of the Intelligent Inventory Management System (IIMS) and High-Density Storage (HDS). 
@@ -103,6 +126,7 @@ Please note that all projects in this scetion are subject to non-disclosure agre
 - Tools utilized: Creo, Femap, Python, C++, Arduino.
 - Affiliated skills: Hardware, Mechatronics, Computer Vision, Control.
 
+
 ### Malaria Vaccine Production Enhancement at LCSR, JHU
 - As a Research Assistant at the [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/) at Johns Hopkins University, under the guidance of Russell Taylor and cooperation with other professors and researchers, I significantly optimized the malaria vaccine production system's setup time by integrating deep learning techniques in computer vision to the system.
 - My work led to a substantial enhancement in ROI detection accuracy, reaching 96% using the YOLOv5 model. 
@@ -111,11 +135,11 @@ Please note that all projects in this scetion are subject to non-disclosure agre
 - Tools utilized: Python, PyTorch, YOLO, Git, GitLab.
 - Affiliated skills: Deep Learning, Computer Vision, Automation, Data Processing.
 
-### R&D Engineer at Dynacolor
+<!-- ### R&D Engineer at Dynacolor
 - materials under maintainance
 
 ### Clash Bots
-- materials under maintainace
+- materials under maintainace -->
 
 
 
@@ -128,7 +152,7 @@ What sets me apart is not just my technical expertise but also my passion for le
 
 I am keen on contributing to impactful projects, especially in areas like advanced robotics, automation technologies, and computer vision. I'm ready to leverage my skills to make a significant contribution.
 
-For collaborations or opportunities, feel free to reach out via email at chuan120@jhu.edu. Let's explore how we can drive innovation forward together.
+For collaborations or opportunities, feel free to reach out via email at chuan120@jhu.edu or my [LinkedIn](https://www.linkedin.com/in/chingyangh/). Let's explore how we can drive innovation forward together.
 
 
 <!-- {Templates} -->
