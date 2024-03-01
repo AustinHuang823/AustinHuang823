@@ -158,7 +158,7 @@ Please note that all projects in this scetion are subject to non-disclosure agre
 
 ### Clash Bots
 
-- [Clash Bots](https://clash-bots.fandom.com/wiki/Clash_Bots) is a highly acclaimed Chinese TV series aired in 2018 that attracted over one billion views worldwid, featuring international heavyweight robots (110 kg) competing in a variety of challenges, drawing from a unique format that mixed battles, rumbles, and demolition tasks.
+- [Clash Bots](https://clash-bots.fandom.com/wiki/Clash_Bots) is a highly acclaimed Chinese TV series aired in 2018 that attracted over one billion views worldwide, featuring international heavyweight robots (110 kg) competing in a variety of challenges, drawing from a unique format that mixed battles, rumbles, and demolition tasks.
 - I Led a highly skilled team of four, applying agile project management techniques to streamline the robot's design, construction, and testing stages, ensuring the project was delivered within a tight eight-month timeline.
 - I designed impact-resistance mechanism, implemented RF control systems, executed welding and wiring, and assembled electro-mechanical components such as motors, contactors, and torque limiters to enhance combat performance.
 - Tools utilized: Creo.
