@@ -22,6 +22,6 @@ def extend_last_frame_duration(input_gif_path, output_gif_path, last_frame_durat
 
 input_gif_path = 'assets/gif/rdkdc_imagedrawing.gif'
 output_gif_path = 'assets/gif/rdkdc_imagedrawing.gif'
-last_frame_duration_seconds = 2  
+last_frame_duration_seconds = 1
 
 extend_last_frame_duration(input_gif_path, output_gif_path, last_frame_duration_seconds)
