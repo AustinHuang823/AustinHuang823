@@ -80,7 +80,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - Affiliated skills: VR, UI design.
 
 <p align="center">
-  <img src="/assets/image/perception_demo.jpg" alt="Perception Enhancement UI" height="300" /><img src="/assets/gif/perception_demo.gif" alt="Pereception Enhancement Demo" height="300" /> 
+  <img src="/assets/image/perception_demo.jpg" alt="Perception Enhancement UI" height="150" /><img src="/assets/gif/perception_demo.gif" alt="Pereception Enhancement Demo" height="150" /> 
 </p>
 <p align="center" style="font-size: 12px;">
   <em>Perception enhancement UI</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Pereception enhancement demo</em>
@@ -96,7 +96,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - Affiliated skills: Pytorch, Data Processing.
 
 <p align="center">
-  <img src="/assets/image/segmentation.png" alt="Segmentation mask" height="300" /><img src="/assets/gif/segmentation.gif" alt="Inference examples in epochs" height="300" /> 
+  <img src="/assets/image/segmentation.png" alt="Segmentation mask" height="150" /><img src="/assets/gif/segmentation.gif" alt="Inference examples in epochs" height="150" /> 
 </p>
 <p align="center" style="font-size: 12px;">
   <em>Segmentation mask</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Inference examples in epochs</em>
