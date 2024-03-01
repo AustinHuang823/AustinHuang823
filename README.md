@@ -44,7 +44,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - Part of the project involves enhancing the usability of the VR platform by building intuitive UI through Unity.
 - We plan to deploy an enhanced VR environment with diverse patient models, making it accessible and user-friendly for novice users, and expand it to support multi-user access, leveraging cloud-based hosting for efficient operation.
 - Tools utilized: Unity, MRTK, C#, Python, Docker, AWS/AZURE.
-- Affiliated skills: VR, Network.
+- Affiliated skills: VR, UI design, Kinematics, Network.
 
 ### Robot Arm Control and Image Drawing Manipulation
 - This project showcases the application of complex robotic control algorithms, such as Inverse Kinematics, Transposed-Jacobian, and Resolved-Rate Control, for executing precise pick-and-place tasks. 
@@ -73,25 +73,50 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - Affiliated skills: Interpolation, Calibration, Distortion Correction, Bezier Geometry, Data Processing, Validation.
 
 
-### Iterative Closest Point Algorithm for 3D Surface Matching
+### Human Perception Enhancement with Head Mounted Display(HMD)
+- The project leverages HoloLens 2's Research Mode to enhance object awareness beyond the user's field of view. It features ArUco Marker detection, utilizing environmental cameras for real-time object tracking, and employs a radar mini-map UI for intuitive navigation. 
+- [Link to the repo](https://github.com/AustinHuang823/Increase-Human-FoV-Using-Hololens)
+- Tools utilized: Unity, C#, ArUco.
+- Affiliated skills: VR, UI design.
+
+<p align="center">
+  <img src="/assets/image/perception_demo.jpg" alt="Perception Enhancement UI" height="300" /><img src="/assets/gif/perception_demo.gif" alt="Pereception Enhancement Demo" height="300" /> 
+</p>
+<p align="center" style="font-size: 12px;">
+  <em>Perception enhancement UI</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Pereception enhancement demo</em>
+</p>
+
+
+### Semantic Segmentation with Transfer Learning
+- The project explores the enhancement of semantic segmentation for autonomous driving through transfer learning.
+- Utilizing the DeepLabv3+ model, pre-trained on Cityscapes and fine-tuned on the JHUStreet dataset, the project aimed to improve segmentation accuracy in diverse environments. 
+- Significant improvements were observed, particularly in detecting cars and traffic signs in urban settings near the Johns Hopkins Homewood campus.
+- [Link to the repo](https://github.com/AustinHuang823/Transfer-Learning-in-Semantic-Segmentation)
+- Tools utilized: Python.
+- Affiliated skills: Pytorch, Data Processing.
+
+<p align="center">
+  <img src="/assets/image/segmentation.png" alt="Segmentation mask" height="300" /><img src="/assets/gif/segmentation.gif" alt="Inference examples in epochs" height="300" /> 
+</p>
+<p align="center" style="font-size: 12px;">
+  <em>Segmentation mask</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Inference examples in epochs</em>
+</p>
+
+
+The above examples provided showcase a range of my projects. For those interested in exploring more, such as the `Iterative Closest Point Algorithm for 3D Surface Matching`, `Sensor-Based Robot Arm Control`, `Wireless Climate-controlled Lighting and Blinds System`, `Video Content 3D Model Rebuilt by Structure from Motion`, `Cybersecurity Strengthening with Deep Learning`, `Decision Tree implementation`, `Self-implemented Ransac package`, and other innovative works, please feel free to reach out directly at chuan120@jhu.edu for further details and discussions on these and additional projects.
+
+<!-- ### Iterative Closest Point Algorithm for 3D Surface Matching
 - This project focuses on the implementation of the Iterative Closest Point (ICP) algorithm to match 3D surfaces accurately, addressing a crucial challenge in computer-integrated surgery and robotics.
 - Developed two nearest neighbor search (NNS) methods: the linear brute-force search for simplicity and the efficient covariance tree search for handling larger datasets with improved time efficiency.
 - Employed advanced mathematical models and algorithms for 3D data processing, including point cloud registration and transformation techniques, to ensure precise alignment of 3D surfaces.
 - Validation and results analysis demonstrated the effectiveness of these methods in achieving high accuracy and significant improvements in computational efficiency.
 - [Link to the report](https://github.com/AustinHuang823/Iterative-Closest-Point-Algorithm-for-3D-Surface-Matching-public)
 - Tools utilized: Python.
-- Affiliated skills: ICP, Kinematics, Data Processing, Validation.
+- Affiliated skills: ICP, Kinematics, Data Processing, Validation. -->
 
-
-### Sensor-Based Robot Arm Control
+<!-- ### Sensor-Based Robot Arm Control
 - Materials under maintainance
-<!-- - Implemented hand-eye calibration using the Park-and-Martin method, yielding an end effector error of just 0.2mm. -->
-
-### Human Perception Enhancement with Head Mounted Display(HMD)
-- Materials under maintainance
-<!-- - Expanded user’s Field of View by 33% to over 180 degrees by integrating C# and Unity in Microsoft Hololens 2.
-- Integrated ArUco markers and camera calibration techniques to detect objects’ positions within a 5% error.
-- [Link to the repo](https://github.com/AustinHuang823/Increase-Human-FoV-Using-Hololens) -->
+- Implemented hand-eye calibration using the Park-and-Martin method, yielding an end effector error of just 0.2mm.
 
 ### Wireless Climate-controlled Lighting and Blinds System
 - Materials under maintainance
@@ -99,16 +124,11 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 ### Video Content 3D Model Rebuilt by Structure from Motion
 - Materials under maintainance
 
-### Semantic Segmentation with Transfer Learning
-- Materials under maintainance
-
 ### Cybersecurity Strengthening with Deep Learning
 - Materials under maintainance
 
 ### Decision Tree implementation
-- Materials under maintainace
-
-
+- Materials under maintainace -->
 
 
 
