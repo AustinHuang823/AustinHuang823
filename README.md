@@ -99,7 +99,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
   <img src="/assets/image/segmentation.png" alt="Segmentation mask" height="200" />&nbsp;<img src="/assets/gif/segmentation.gif" alt="Inference examples in epochs" height="200" /> 
 </p>
 <p align="center" style="font-size: 12px;">
-  <em>Segmentation mask</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Inference examples in epochs</em>
+  <em>Segmentation mask</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Inference examples in epochs</em>
 </p>
 
 
