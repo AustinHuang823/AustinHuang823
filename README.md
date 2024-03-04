@@ -170,7 +170,7 @@ Please note that all projects in this scetion are subject to non-disclosure agre
 <p align="center" style="font-size: 12px;">
   <em>Clash Bots demo</em>
 </p> -->
-
+![CLash bots test](https://imgur.com/a/TxLuFNq)
 <p align="center">
   <img src="https://imgur.com/a/TxLuFNq" alt="Clash Bots demo" width="600" /> 
 </p>
