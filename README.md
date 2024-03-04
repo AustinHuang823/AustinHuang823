@@ -170,9 +170,9 @@ Please note that all projects in this scetion are subject to non-disclosure agre
 <p align="center" style="font-size: 12px;">
   <em>Clash Bots demo</em>
 </p> -->
-![CLash bots test](https://imgur.com/OQtADgj)
+![CLash bots test](https://i.imgur.com/OQtADgj.mp4)
 <p align="center">
-  <img src="https://imgur.com/OQtADgj" alt="Clash Bots demo" width="600" /> 
+  <img src="https://i.imgur.com/OQtADgj.mp4" alt="Clash Bots demo" width="600" /> 
 </p>
 <p align="center" style="font-size: 12px;">
   <em>Clash Bots demo</em>
