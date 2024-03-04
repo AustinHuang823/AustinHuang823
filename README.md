@@ -164,15 +164,8 @@ Please note that all projects in this scetion are subject to non-disclosure agre
 - Tools utilized: Creo.
 - Affiliated skills: Welding, Electronice, Mechanism Design, Project Management.
 
-<!-- <p align="center">
-  <img src="/assets/gif/clashbots.gif" alt="Clash Bots demo" width="600" /> 
-</p>
-<p align="center" style="font-size: 12px;">
-  <em>Clash Bots demo</em>
-</p> -->
-![CLash bots test](https://i.imgur.com/OQtADgj.mp4)
 <p align="center">
-  <img src="https://i.imgur.com/OQtADgj.mp4" alt="Clash Bots demo" width="600" /> 
+  <img src="/assets/gif/clashbots_optimized.gif" alt="Clash Bots demo" width="600" /> 
 </p>
 <p align="center" style="font-size: 12px;">
   <em>Clash Bots demo</em>
