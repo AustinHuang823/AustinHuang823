@@ -17,9 +17,6 @@
 
 Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's student specializing in Robotics at Johns Hopkins University. With a robust foundation in engineering principles and a keen interest in the cutting-edge fields of Automation, Mechatronics, Robotics, Virtual Reality (VR), and Computer Vision, I am on a mission to contribute to the advancement of these technologies.
 
-
-
-
 <!--  -->
 ## 👨‍💻 Skills
 
@@ -189,7 +186,13 @@ I am keen on contributing to impactful projects, especially in areas like advanc
 
 For collaborations or opportunities, feel free to reach out via email at chuan120@jhu.edu or my [LinkedIn](https://www.linkedin.com/in/chingyangh/). Let's explore how we can drive innovation forward together.
 
+## 📊 My Github stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AustinHuang823&theme=city_lights)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AustinHuang823&theme=city_lights)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AustinHuang823&theme=city_lights)
 <!-- {Templates} -->
 
 <!-- Collapsible Sections -->
