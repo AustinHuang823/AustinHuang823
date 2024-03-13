@@ -35,7 +35,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 <!--  -->
 ## 🗄 Projects
 
-### VR C-arm Surgical Operation Simulation (Currently working on)
+### VR C-arm Surgical Operation Simulator (Currently working on)
 - Our project at the Laboratory for Computational Sensing and Robotics (LCSR), Johns Hopkins University, aims to enhance the precision and outcome of percutaneous pelvic fracture surgeries. 
 - We're building on existing VR platforms to develop a system that for accurately defining standard pelvic views, reducing reliance on fluoroscopic guidance and its associated risks.
 - Part of the project involves enhancing the usability of the VR platform by building intuitive UI through Unity.
