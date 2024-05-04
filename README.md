@@ -50,7 +50,9 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 <p align="center" style="font-size: 12px;">
   <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim: Demo Showcase</em>
 </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KBZRdeR9SV4?si=xpUDSvT5lc0ETjxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KBZRdeR9SV4?si=xpUDSvT5lc0ETjxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 
 ### Robot Arm Control and Image Drawing Manipulation
