@@ -38,9 +38,8 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 ### VRPelviSim
 - Clinched the Best Project Award Finalist presented by the [Engineering Research Center](https://www.nsf.gov/eng/eec/erc.jsp) for Computer-Integrated Surgical Systems and Technology ([CISST ERC](https://cisst.org/)) led by [Dr. Russell H. Taylor](https://engineering.jhu.edu/faculty/russell-taylor/), father of medical robotics.
 - VRPelviSim provides an effective, risk-free virtual reality environment that emulates real operating rooms, transforming the landscape of clinical data collection and surgical training in fluoroscopic surgery. Features include user-friendly control panels, intuitive and precise virtual C-arm operations, scalable servers for widespread access, anonymized patient models derived from real CT data, and realistic simulated digital radiography (DRR) images leveraging [DeepDRR](https://doi.org/10.48550/arXiv.1803.08606).
-- We're building on existing VR platforms to develop a system that for accurately defining standard pelvic views, reducing reliance on fluoroscopic guidance and its associated risks.
-- Part of the project involves enhancing the usability of the VR platform by building intuitive UI through Unity.
-- We plan to deploy an enhanced VR environment with diverse patient models, making it accessible and user-friendly for novice users, and expand it to support multi-user access, leveraging cloud-based hosting for efficient operation.
+- This project builds upon the groundbreaking research by Killeen et al., detailed in their latest publication, [Stand in surgeon's shoes: virtual reality cross-training to enhance teamwork in surgery](https://doi.org/10.1007/s11548-024-03138-7)
+- [Link to poster](/assets/image/team03_final-poster.pdf)
 - Tools utilized: Unity, MRTK, C#, Python, ZeroMQ, Docker, AWS/AZURE, Notion, Jira.
 - Affiliated skills: VR, User-centric development, Kinematics, Network and Server Deployment, Project Management, Documentation, and Presentation Skills.
 <!-- <p align="center">
@@ -55,7 +54,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
   <img src="/assets/image/VRPelviSim.jpeg" alt="VRPelviSim Environment" height="216" width="347" />
 </p>
 <p align="center" style="font-size: 12px;">
-  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>[VRPelviSim Environment Demo Showcase Video](https://youtu.be/KBZRdeR9SV4)</em>
+  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim Environment <a href="https://youtu.be/KBZRdeR9SV4" target="_blank">Demo Showcase Video here</a></em>
 </p>
 
 
