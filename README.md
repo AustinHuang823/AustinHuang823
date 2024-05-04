@@ -44,7 +44,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - Tools utilized: Unity, MRTK, C#, Python, ZeroMQ, Docker, AWS/AZURE, Notion, Jira.
 - Affiliated skills: VR, User-centric development, Kinematics, Network and Server Deployment, Project Management, Documentation, and Presentation Skills.
 <p align="center">
-  <img src="/assets/image/VRPelviSim_Team_wMentors.jpeg" alt="VRPelviSim Team with Mentors" height="300" width="180" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" height="300" />
+  <img src="/assets/image/VRPelviSim_Team_wMentors.jpeg" alt="VRPelviSim Team with Mentors" height="384" width="288" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" height="300" />
 </p>
 <p align="center" style="font-size: 12px;">
   <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
