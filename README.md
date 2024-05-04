@@ -40,7 +40,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - Clinched the **Best Project Award** Finalist presented by the [Engineering Research Center](https://www.nsf.gov/eng/eec/erc.jsp) for Computer-Integrated Surgical Systems and Technology ([CISST ERC](https://cisst.org/)) led by [Dr. Russell H. Taylor](https://engineering.jhu.edu/faculty/russell-taylor/), father of medical robotics.
 - VRPelviSim provides an effective, risk-free virtual reality environment that emulates real operating rooms, transforming the landscape of clinical data collection and surgical training in fluoroscopic surgery. Features include user-friendly control panels, intuitive and precise virtual C-arm operations, scalable servers for widespread access, anonymized patient models derived from real CT data, and realistic simulated digital radiography (DRR) images leveraging [DeepDRR](https://doi.org/10.48550/arXiv.1803.08606).
 - This project builds upon the groundbreaking research by Killeen et al., detailed in their latest publication, [Stand in surgeon's shoes: virtual reality cross-training to enhance teamwork in surgery](https://doi.org/10.1007/s11548-024-03138-7)
-- [Link to poster](/assets/image/team03_final-poster.pdf)
+- [Link to poster](https://github.com/AustinHuang823/AustinHuang823/blob/main/assets/materials/team03_final-poster.pdf)
 - Tools utilized: Unity, MRTK, C#, Python, ZeroMQ, Docker, AWS/AZURE, Notion, Jira.
 - Affiliated skills: VR, User-centric development, Kinematics, Network and Server Deployment, Project Management, Documentation, and Presentation Skills.
 
