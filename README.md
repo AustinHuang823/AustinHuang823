@@ -45,13 +45,11 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - Affiliated skills: VR, User-centric development, Kinematics, Network and Server Deployment, Project Management, Documentation, and Presentation Skills.
 <p align="center">
   <img src="/assets/image/VRPelviSim_Team_wMentors.jpeg" alt="VRPelviSim Team with Mentors" height="288" width="384" />
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/KBZRdeR9SV4?si=xpUDSvT5lc0ETjxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <img src="/assets/image/VRPelviSim.jpeg" alt="VRPelviSim Environment" height="288" width="463" />
+  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/KBZRdeR9SV4?si=xpUDSvT5lc0ETjxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 </p>
 <p align="center" style="font-size: 12px;">
-  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim: Demo Showcase</em>
-</p>
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/KBZRdeR9SV4?si=xpUDSvT5lc0ETjxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim Environment [Demo Showcase Video here](https://youtu.be/KBZRdeR9SV4)</em>
 </p>
 
 
