@@ -36,7 +36,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 ## 🗄 Projects
 
 ### VRPelviSim
-- Clinched the Best Project Award Finalist presented by the Engineering Research Center for Computer-Integrated Surgical Systems and Technology (CISST ERC) led by [Dr. Russell H. Taylor](https://engineering.jhu.edu/faculty/russell-taylor/), father of medical robotics.
+- Clinched the Best Project Award Finalist presented by the [Engineering Research Center](https://www.nsf.gov/eng/eec/erc.jsp) for Computer-Integrated Surgical Systems and Technology ([CISST ERC](https://cisst.org/)) led by [Dr. Russell H. Taylor](https://engineering.jhu.edu/faculty/russell-taylor/), father of medical robotics.
 - VRPelviSim provides an effective, risk-free virtual reality environment that emulates real operating rooms, transforming the landscape of clinical data collection and surgical training in fluoroscopic surgery. Features include user-friendly control panels, intuitive and precise virtual C-arm operations, scalable servers for widespread access, anonymized patient models derived from real CT data, and realistic simulated digital radiography (DRR) images leveraging [DeepDRR](https://doi.org/10.48550/arXiv.1803.08606).
 - We're building on existing VR platforms to develop a system that for accurately defining standard pelvic views, reducing reliance on fluoroscopic guidance and its associated risks.
 - Part of the project involves enhancing the usability of the VR platform by building intuitive UI through Unity.
@@ -44,11 +44,13 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - Tools utilized: Unity, MRTK, C#, Python, ZeroMQ, Docker, AWS/AZURE, Notion, Jira.
 - Affiliated skills: VR, User-centric development, Kinematics, Network and Server Deployment, Project Management, Documentation, and Presentation Skills.
 <p align="center">
-  <img src="/assets/image/VRPelviSim_Team_wMentors.jpeg" alt="VRPelviSim Team with Mentors" height="288" width="384" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" height="300" />
+  <img src="/assets/image/VRPelviSim_Team_wMentors.jpeg" alt="VRPelviSim Team with Mentors" height="288" width="384" />
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KBZRdeR9SV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p align="center" style="font-size: 12px;">
-  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
+  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim: Demo Showcase</em>
 </p>
+
 
 ### Robot Arm Control and Image Drawing Manipulation
 - This project showcases the application of complex robotic control algorithms, such as Inverse Kinematics, Transposed-Jacobian, and Resolved-Rate Control, for executing precise pick-and-place tasks. 
