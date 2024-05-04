@@ -42,18 +42,12 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - [Link to poster](/assets/image/team03_final-poster.pdf)
 - Tools utilized: Unity, MRTK, C#, Python, ZeroMQ, Docker, AWS/AZURE, Notion, Jira.
 - Affiliated skills: VR, User-centric development, Kinematics, Network and Server Deployment, Project Management, Documentation, and Presentation Skills.
-<!-- <p align="center">
-  <img src="/assets/image/VRPelviSim_Team_wMentors.jpeg" alt="VRPelviSim Team with Mentors" height="288" width="384" />
-  <img src="/assets/image/VRPelviSim.jpeg" alt="VRPelviSim Environment" height="288" width="463" />
-</p>
-<p align="center" style="font-size: 12px;">
-  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim Environment [Demo Showcase Video here](https://youtu.be/KBZRdeR9SV4)</em>
-</p> -->
+
 <p align="center">
   <img src="/assets/image/VRPelviSim_Team_wMentors.jpeg" alt="VRPelviSim Team with Mentors" height="216" width="288" />
   <img src="/assets/image/VRPelviSim.jpeg" alt="VRPelviSim Environment" height="216" width="347" />
 </p>
-<p align="center" style="font-size: 12px;">
+<p align="center" style="font-size: 10px;">
   <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim Environment <a href="https://youtu.be/KBZRdeR9SV4" target="_blank">Demo Showcase Video here</a></em>
 </p>
 
@@ -71,7 +65,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 <p align="center">
   <img src="/assets/gif/rdkdc_imagedrawing_optimized.gif" alt="JHU logo drawing demo" height="300" width="180" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" height="300" />
 </p>
-<p align="center" style="font-size: 12px;">
+<p align="center" style="font-size: 10px;">
   <em>JHU logo drawing demo</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
 </p>
 
@@ -95,7 +89,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 <p align="center">
   <img src="/assets/image/perception_demo.jpg" alt="Perception Enhancement UI" height="200" />&nbsp;<img src="/assets/gif/perception_demo.gif" alt="Pereception Enhancement Demo" height="200" /> 
 </p>
-<p align="center" style="font-size: 12px;">
+<p align="center" style="font-size: 10px;">
   <em>Perception enhancement UI</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Pereception enhancement demo</em>
 </p>
 
@@ -111,7 +105,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 <p align="center">
   <img src="/assets/image/segmentation.png" alt="Segmentation mask" height="200" />&nbsp;<img src="/assets/gif/segmentation_optimized.gif" alt="Inference examples in epochs" height="200" /> 
 </p>
-<p align="center" style="font-size: 12px;">
+<p align="center" style="font-size: 10px;">
   <em>Segmentation mask</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Inference examples in epochs</em>
 </p>
 
@@ -180,7 +174,7 @@ Please note that all projects in this scetion are subject to non-disclosure agre
 <p align="center">
   <img src="/assets/gif/clashbots_optimized.gif" alt="Clash Bots demo" width="600" /> 
 </p>
-<p align="center" style="font-size: 12px;">
+<p align="center" style="font-size: 10px;">
   <em>Clash Bots demo</em>
 </p>
 
