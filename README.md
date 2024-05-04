@@ -43,14 +43,21 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 - We plan to deploy an enhanced VR environment with diverse patient models, making it accessible and user-friendly for novice users, and expand it to support multi-user access, leveraging cloud-based hosting for efficient operation.
 - Tools utilized: Unity, MRTK, C#, Python, ZeroMQ, Docker, AWS/AZURE, Notion, Jira.
 - Affiliated skills: VR, User-centric development, Kinematics, Network and Server Deployment, Project Management, Documentation, and Presentation Skills.
-<p align="center">
+<!-- <p align="center">
   <img src="/assets/image/VRPelviSim_Team_wMentors.jpeg" alt="VRPelviSim Team with Mentors" height="288" width="384" />
   <img src="/assets/image/VRPelviSim.jpeg" alt="VRPelviSim Environment" height="288" width="463" />
-  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/KBZRdeR9SV4?si=xpUDSvT5lc0ETjxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 </p>
 <p align="center" style="font-size: 12px;">
   <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim Environment [Demo Showcase Video here](https://youtu.be/KBZRdeR9SV4)</em>
+</p> -->
+<p align="center">
+  <img src="/assets/image/VRPelviSim_Team_wMentors.jpeg" alt="VRPelviSim Team with Mentors" height="216" width="288" />
+  <img src="/assets/image/VRPelviSim.jpeg" alt="VRPelviSim Environment" height="216" width="347" />
 </p>
+<p align="center" style="font-size: 12px;">
+  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>[VRPelviSim Environment Demo Showcase Video](https://youtu.be/KBZRdeR9SV4)</em>
+</p>
+
 
 
 ### Robot Arm Control and Image Drawing Manipulation
