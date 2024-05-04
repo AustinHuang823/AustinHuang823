@@ -35,13 +35,20 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
 <!--  -->
 ## 🗄 Projects
 
-### VR C-arm Surgical Operation Simulator (Currently working on)
-- Our project at the Laboratory for Computational Sensing and Robotics (LCSR), Johns Hopkins University, aims to enhance the precision and outcome of percutaneous pelvic fracture surgeries. 
+### VRPelviSim
+- Clinched the Best Project Award Finalist presented by the Engineering Research Center for Computer-Integrated Surgical Systems and Technology (CISST ERC) led by [Dr. Russell H. Taylor](https://engineering.jhu.edu/faculty/russell-taylor/), father of medical robotics.
+- VRPelviSim provides an effective, risk-free virtual reality environment that emulates real operating rooms, transforming the landscape of clinical data collection and surgical training in fluoroscopic surgery. Features include user-friendly control panels, intuitive and precise virtual C-arm operations, scalable servers for widespread access, anonymized patient models derived from real CT data, and realistic simulated digital radiography (DRR) images leveraging [DeepDRR](https://doi.org/10.48550/arXiv.1803.08606).
 - We're building on existing VR platforms to develop a system that for accurately defining standard pelvic views, reducing reliance on fluoroscopic guidance and its associated risks.
 - Part of the project involves enhancing the usability of the VR platform by building intuitive UI through Unity.
 - We plan to deploy an enhanced VR environment with diverse patient models, making it accessible and user-friendly for novice users, and expand it to support multi-user access, leveraging cloud-based hosting for efficient operation.
-- Tools utilized: Unity, MRTK, C#, Python, Docker, AWS/AZURE, Notion, Jira.
-- Affiliated skills: VR, UI design, Kinematics, Network, Project Management.
+- Tools utilized: Unity, MRTK, C#, Python, ZeroMQ, Docker, AWS/AZURE, Notion, Jira.
+- Affiliated skills: VR, User-centric development, Kinematics, Network and Server Deployment, Project Management, Documentation, and Presentation Skills.
+<p align="center">
+  <img src="/assets/gif/rdkdc_imagedrawing_optimized.gif" alt="JHU logo drawing demo" height="300" width="180" /> <img src="/assets/image/rdkdc_simulation.png" alt="JHU logo drawing trajectory in simulation" height="300" />
+</p>
+<p align="center" style="font-size: 12px;">
+  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>JHU logo drawing trajectory in simulation</em>
+</p>
 
 ### Robot Arm Control and Image Drawing Manipulation
 - This project showcases the application of complex robotic control algorithms, such as Inverse Kinematics, Transposed-Jacobian, and Resolved-Rate Control, for executing precise pick-and-place tasks. 
