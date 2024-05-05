@@ -49,7 +49,7 @@ Hello! I'm **Ching Yang (Austin) Huang**, a dedicated and passionate Master's st
   <img src="/assets/image/VRPelviSim.jpeg" alt="VRPelviSim Environment" height="216" width="347" />
 </p>
 <p align="center" style="font-size: 10px;">
-  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim Environment <a href="https://youtu.be/KBZRdeR9SV4" target="_blank">Demo Video Link</a></em>
+  <em>VRPelviSim Team with Mentors</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>VRPelviSim Environment <a href="https://youtu.be/um9RDD8XH9g" target="_blank">Demo Video Link</a></em>
 </p>
 
 
