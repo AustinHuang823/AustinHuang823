@@ -10,6 +10,12 @@
 
 <h1 align="center">Ching-Yang (Austin) Huang</h1>
 
+<p align="center">
+  🌐 <a href="https://austinhuang823.github.io"><b>Portfolio: austinhuang823.github.io</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/chingyangh/">LinkedIn</a>
+</p>
+
 
 
 <!--  -->
